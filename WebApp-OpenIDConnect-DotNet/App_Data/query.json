@@ -1,0 +1,7 @@
+﻿{
+  "PerspectiveName": "Volume License",
+  "SelectedAttributes": "['End Customer Top Parent Organization Name',2|'End Customer Top Parent Organization ID',2|'End Customer Organization Name',2|'End Customer Organization ID',2|'End Customer Top Parent Account Manager',2|'Distributor Top Parent Name',2|'Distributor Top Parent ID',2|'Reseller Top Parent ID',2|'Reseller Top Parent Name',2|'Reseller Account Manager',2|'Credited Worldwide Area',2|'Credited Worldwide Sales Location',2|'Master Business Agreement Number / MPSA Number',2|'Master Agreement Number / PAR Number',2|'Enrollment',2|'Enrollment Actual End Date',2|'Enrollment Created Date',2|'Future Enrollment Start Date',2|'Enrollment Status',2|'Opportunity ID',2|'External PO Number',2|'Invoice Document Number',2|'Record Type',2|'Reason Code Description',2|'Reported Segment',2|'Business Summary',2|'Pricing Level',2|'Summary Pricing Level',2|'Licensing Program',2|'Rev Sum Division',2|'Product Family',2|'Part Description',2|'Part Number',2|'Sales Date',2|'Fiscal Month',2|'Fiscal Year',2|'Billing Type',2|'Billing Option',2|'Prepaid',2|'Future Flag',2|'Base Currency',2|'MS Sales Amount Const $',5|'MS Sales Amount LC',5|'MS Sales Amount',5|'MS Sales Licenses',5|'MS Sales Last Refresh Date',2]",
+  "AttributeFilters": "(['Future Flag']|IN||(0)| AND ['Fiscal Year']|IN||(28)|  AND ['Licensing Program']|IN||(4,5)|  AND ['Credited Worldwide Sales Location']|IN||(21)|  AND ['Base Currency']|IN||(15)|){StartDataFields}{EndDataFields}",
+  "SubjectName": "Revenue - MS Sales (UAT)",
+  "SourceName": "mssales"
+}
